@@ -1,0 +1,24 @@
+.navLogo {
+    width: 40px;
+}
+
+.bannerLogo {
+    width: 500px;
+    position: relative;
+    top: 100px;
+}
+
+.lead {
+    position: relative;
+    top: 75px;
+}
+
+.cardImage {
+    width: 255px;
+}
+
+.jumbotron {
+    background-image: url(Edited-Photo-2.jpg);
+    background-position: 50% 25%;
+    background-size: cover;
+}
